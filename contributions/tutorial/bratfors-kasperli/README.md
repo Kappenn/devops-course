@@ -16,6 +16,8 @@ We have a fun fact in the background section and also an easter egg if one choos
 
 ## Repeat:
 
+We have removed the tutorial from Medium and now it exist only on github.
+
 We have expanded the background to explain about how CI and automated build tools are connected to Devops and why TeamCity is a good option.
 
 We have added instructions to install Java 8 and Gradle, either from the respective website or through a package manager.
